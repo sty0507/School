@@ -12,5 +12,9 @@ pip install requests
 pip install plotly==5.4.0
 ```
 
+- 결과
+![제출](https://user-images.githubusercontent.com/80656669/169822794-1e41613d-e53c-46f2-b6dd-b2f42eb20569.PNG)
+
+
 
 사용한 api : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15076352

@@ -16,6 +16,12 @@ pip install plotly==5.4.0
 
 ![제출](https://user-images.githubusercontent.com/80656669/169822794-1e41613d-e53c-46f2-b6dd-b2f42eb20569.PNG)
 
+## 2) useNumpy.py
+Numpy라는 행렬 연산하는 라이브러리를 통해 이미지 데이터를 줄일 수 있게함
+
+
+![numpy 7](https://user-images.githubusercontent.com/80656669/171404727-94a1e161-57b1-496a-9c7f-262f07e61559.PNG)
+
 
 
 사용한 api : https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15076352

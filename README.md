@@ -30,9 +30,9 @@ Pandas로 table 형태의 값을 가져옴
 
 - 년도를 입력하면 그 해의 라리가 득점왕을 구해옴(pandas로 table 값을 가져와서)
 
-![2014](https://user-images.githubusercontent.com/80656669/172333964-c0f494f5-996d-4929-bcb7-66a6f98a963d.PNG)
-이렇게 입력하면
-![ro](https://user-images.githubusercontent.com/80656669/172333956-2d083279-fb70-48ca-8630-b9cc92d29aca.PNG)
+![2014](https://user-images.githubusercontent.com/80656669/172333964-c0f494f5-996d-4929-bcb7-66a6f98a963d.PNG)<br>
+이렇게 입력하면 <br>
+![ro](https://user-images.githubusercontent.com/80656669/172333956-2d083279-fb70-48ca-8630-b9cc92d29aca.PNG)<br>
 가 뜬다(박스 쳐져있는 이유는 한글 폰트 적용을 안함) 
 
 폰트 적용코드 
@@ -44,7 +44,7 @@ Pandas로 table 형태의 값을 가져옴
 #런타임 다시 시작
 ```
 
-![14-15](https://user-images.githubusercontent.com/80656669/172333966-8f52aeef-dfd9-4b0b-8212-76164d323d31.PNG)
+![14-15](https://user-images.githubusercontent.com/80656669/172333966-8f52aeef-dfd9-4b0b-8212-76164d323d31.PNG)<br>
 실제 값과 같다
 
 이것들은 코랩 환경에서 해야 잘됨.
